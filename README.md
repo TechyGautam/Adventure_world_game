@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Adventure Game](https://img.shields.io/badge/Adventure-World-ff69b4)
+
+
 # 🌍 ADVENTURE WORLD GAME 🎮✨
 
 Welcome to **Adventure World Game** — ek fun aur interactive **text-based adventure game** jo Python me banaya gaya hai 🐍  
